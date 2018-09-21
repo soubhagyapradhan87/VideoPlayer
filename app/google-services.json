@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "544457167819",
+    "firebase_url": "https://videoplayer-ae5fa.firebaseio.com",
+    "project_id": "videoplayer-ae5fa",
+    "storage_bucket": "videoplayer-ae5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544457167819:android:1c30f1d8e37f7b0c",
+        "android_client_info": {
+          "package_name": "mac.soubhagya.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544457167819-35s8quc458ukblc0saru4nm0qv19a7ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mac.soubhagya.videoplayer",
+            "certificate_hash": "e760c25016358c2b3e98f8df6435e2d3b9055215"
+          }
+        },
+        {
+          "client_id": "544457167819-6ig045a97ujg8fhb614fha2dq1aftc8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB84IbG1IgkzquhXHbgIeX2rjEJoC90lIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544457167819-6ig045a97ujg8fhb614fha2dq1aftc8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
